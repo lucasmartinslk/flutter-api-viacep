@@ -1,8 +1,8 @@
 # flutter_app_api
 
-Sistema de busca de CEP Programado com Dart
+Sistema de busca de CEP Programado com Dart.
 
-utilizando API ViaCEP.
+Utilizando API ViaCEP.
 
 
 ![image](https://user-images.githubusercontent.com/68522644/94963122-08106b80-04ce-11eb-8648-c40d63ffa4e1.png)
